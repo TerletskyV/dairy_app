@@ -1,0 +1,9 @@
+.card {
+    min-height: 500px;
+    margin: 20px;
+    box-shadow: 1px 1px 1px rgba(50,50,50, 0.3);
+}
+
+.isActive {
+    border-left: 5px solid rgb(255, 50, 50) !important;
+}
